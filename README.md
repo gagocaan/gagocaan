@@ -29,3 +29,6 @@
 - Flask
 - Django
 - FastAPI
+
+### Go
+- Gin
